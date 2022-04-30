@@ -1,0 +1,14 @@
+C:\Users\juj4i\source\repos\exam\exam.Service\bin\Debug\net6.0\exam.Service.deps.json
+C:\Users\juj4i\source\repos\exam\exam.Service\bin\Debug\net6.0\exam.Service.dll
+C:\Users\juj4i\source\repos\exam\exam.Service\bin\Debug\net6.0\ref\exam.Service.dll
+C:\Users\juj4i\source\repos\exam\exam.Service\bin\Debug\net6.0\exam.Service.pdb
+C:\Users\juj4i\source\repos\exam\exam.Service\obj\Debug\net6.0\exam.Service.csproj.AssemblyReference.cache
+C:\Users\juj4i\source\repos\exam\exam.Service\obj\Debug\net6.0\exam.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juj4i\source\repos\exam\exam.Service\obj\Debug\net6.0\exam.Service.AssemblyInfoInputs.cache
+C:\Users\juj4i\source\repos\exam\exam.Service\obj\Debug\net6.0\exam.Service.AssemblyInfo.cs
+C:\Users\juj4i\source\repos\exam\exam.Service\obj\Debug\net6.0\exam.Service.csproj.CoreCompileInputs.cache
+C:\Users\juj4i\source\repos\exam\exam.Service\obj\Debug\net6.0\exam.Service.dll
+C:\Users\juj4i\source\repos\exam\exam.Service\obj\Debug\net6.0\ref\exam.Service.dll
+C:\Users\juj4i\source\repos\exam\exam.Service\obj\Debug\net6.0\exam.Service.pdb
+C:\Users\juj4i\source\repos\exam\exam.Service\bin\Debug\net6.0\exam.Service.runtimeconfig.json
+C:\Users\juj4i\source\repos\exam\exam.Service\obj\Debug\net6.0\exam.Service.genruntimeconfig.cache
